@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,gBAAgB,CAAC;EACb,MAAM,EAAE,OAAO;CAAG",
+    "sources": [
+        "bs-navbar.component.sass"
+    ],
+    "names": [],
+    "file": "bs-navbar.component.css"
+}
